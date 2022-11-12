@@ -1,4 +1,4 @@
-<h3 align="center">Frontend engineer with a sense of design</h3>
+<h3 align="center">Frontend engineer with an eye for design</h3>
 
 <p align="left"> <a href="https://twitter.com/muzect" target="blank"><img src="https://img.shields.io/twitter/follow/muzect?logo=twitter&style=for-the-badge" alt="muzect" /></a> </p>
 
