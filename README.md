@@ -2,8 +2,8 @@
 
 <p align="left"> <a href="https://twitter.com/muzect" target="blank"><img src="https://img.shields.io/twitter/follow/muzect?logo=twitter&style=for-the-badge" alt="muzect" /></a> </p>
 
-- 🔭 I’m currently studying data science and economics
-- 💬 Very interested in software engineering & economics and how the two can work together.
+- 🔭 Studying data science and economics
+- 💬 Interested in software engineering & economics and how the two can work together.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
