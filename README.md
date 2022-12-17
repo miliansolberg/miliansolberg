@@ -1,9 +1,9 @@
-<h3 align="center">Frontend engineer with an eye for design</h3>
+<h3 align="center">Software engineer with an eye for design</h3>
 
 <p align="left"> <a href="https://twitter.com/muzect" target="blank"><img src="https://img.shields.io/twitter/follow/muzect?logo=twitter&style=for-the-badge" alt="muzect" /></a> </p>
 
-- 🔭 Studying data science and economics
-- 💬 Interested in software engineering & economics and how the two can work together.
+- 🔭 Studying data science and business
+- 💬 Interested in SaaS and the development of modern digital products.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
