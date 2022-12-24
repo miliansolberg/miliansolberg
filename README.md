@@ -2,8 +2,8 @@
 
 <p align="left"> <a href="https://twitter.com/muzect" target="blank"><img src="https://img.shields.io/twitter/follow/muzect?logo=twitter&style=for-the-badge" alt="muzect" /></a> </p>
 
-- 🔭 Studying data science and business
-- 💬 Interested in SaaS and the development of modern digital products.
+- 🔭 Studying software engineering and business
+- 💬 Interested in SaaS and the development of modern, frictionless digital products.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
