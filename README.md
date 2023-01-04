@@ -18,7 +18,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
-<a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://kit.svelte.dev/_app/immutable/assets/svelte-kit-machine-3af040cb.png" alt="sveltekit" width="40" height="40"/>  
+<a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://kit.svelte.dev/_app/immutable/assets/svelte-kit-machine-3af040cb.png" alt="sveltekit" width="40" height="40"/>  
   
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="vitejs" width="40" height="40"/> </a>
