@@ -25,8 +25,5 @@
 <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40"/> </a>
 <a href="https://pnpm.io/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/aad219b6c931cebb53121dcda794f6180d9e4397/17f34/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg" alt="pnpm" width="40" height="40"/> </a>
 <a href="https://stripe.com/" target="_blank" rel="noreferrer"> <img src="https://b.stripecdn.com/site-statics-srv/assets/assets/img/v3/home/twitter-80afaafee00af0bc21d345164a2a9bb6.png" alt="stripe" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="firebase" width="40" height="40"/> </a>
-
-<a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/44914786?s=280&v=4" alt="astro" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" alt="typescript" width="40" height="40"/> </a>
  
