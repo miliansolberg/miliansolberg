@@ -31,4 +31,4 @@
 </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--TNSLqWFK--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/140/fec5c82f-9870-4277-8ec9-a1ccf5505bf5.png" alt="MongoDB" width="40" height="40"/>
 </a> <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="GraphQL" width="40" height="40"/>
 </a> <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/12820/199712/icon/pluginIcon.svg" alt="Redis" width="40" height="40"/>
-</a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="60" height="40"/>
+</a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="62" height="40"/>
