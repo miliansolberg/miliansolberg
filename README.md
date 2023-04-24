@@ -25,7 +25,9 @@
 <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40"/> </a>
 <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/60cd2530141f67f07a947fa2d310c482e287e387/topics/playwright/playwright.png" alt="playwright" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" alt="prisma" width="40" height="40"/> </a>
 </a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="NodeJS" width="40" height="40"/></a>
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png" alt="Cloudflare" width="40" height="40"/>
 </a> <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://panther.com/wp-content/uploads/Nginx-logo.png" alt="Nginx" width="40" height="40"/>
