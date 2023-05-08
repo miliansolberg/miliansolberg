@@ -15,10 +15,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+</a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/>
 </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" alt="typescript" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://tauri.app/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://tauri.app/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" alt="tauri" width="40" height="40"/> </a>
   
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="vitejs" width="40" height="40"/> </a>
 <a href="https://pnpm.io/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/aad219b6c931cebb53121dcda794f6180d9e4397/17f34/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg" alt="pnpm" width="40" height="40"/> </a>
@@ -28,7 +29,10 @@
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" alt="prisma" width="40" height="40"/> </a>
+  <a href="https://planetscale.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/planetscale-logo-0EEA8CAEB4-seeklogo.com.png" width="40" height="40"/> </a>
+<a href="https://trpc.io/" target="_blank" rel="noreferrer"> <img src="https://trpc.io/img/logo.svg" alt="trpc" width="40" height="40"/> </a>
 </a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="NodeJS" width="40" height="40"/></a>
+
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png" alt="Cloudflare" width="40" height="40"/>
 </a> <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://panther.com/wp-content/uploads/Nginx-logo.png" alt="Nginx" width="40" height="40"/>
 </a> <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/12820/199712/icon/pluginIcon.svg" alt="Redis" width="40" height="40"/>
