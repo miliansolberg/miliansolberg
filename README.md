@@ -29,11 +29,9 @@
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" alt="prisma" width="40" height="40"/> </a>
-  <a href="https://planetscale.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/planetscale-logo-0EEA8CAEB4-seeklogo.com.png" width="40" height="40"/> </a>
 <a href="https://trpc.io/" target="_blank" rel="noreferrer"> <img src="https://trpc.io/img/logo.svg" alt="trpc" width="40" height="40"/> </a>
 </a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="NodeJS" width="40" height="40"/></a>
 
-<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png" alt="Cloudflare" width="40" height="40"/>
 </a> <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://panther.com/wp-content/uploads/Nginx-logo.png" alt="Nginx" width="40" height="40"/>
 </a> <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/12820/199712/icon/pluginIcon.svg" alt="Redis" width="40" height="40"/>
 </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/61d6b61c7084bb1d721a21aa/6306d999884fc5eedc5015a4_Kafka%20light%20260x260.png" alt="Kafka" width="40" height="40"/>
