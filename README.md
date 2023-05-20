@@ -31,8 +31,10 @@
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" alt="prisma" width="40" height="40"/> </a>
 <a href="https://trpc.io/" target="_blank" rel="noreferrer"> <img src="https://trpc.io/img/logo.svg" alt="trpc" width="40" height="40"/> </a>
 </a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="NodeJS" width="40" height="40"/></a>
+</a> <a href="" target="_blank" rel="noreferrer"> <img src="https://zod.dev/logo.svg" alt="Zod" width="40" height="40"/></a>
 
 </a> <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://panther.com/wp-content/uploads/Nginx-logo.png" alt="Nginx" width="40" height="40"/>
 </a> <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/12820/199712/icon/pluginIcon.svg" alt="Redis" width="40" height="40"/>
 </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/61d6b61c7084bb1d721a21aa/6306d999884fc5eedc5015a4_Kafka%20light%20260x260.png" alt="Kafka" width="40" height="40"/>
 </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="56" height="34"/>
+</a> <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://socket.io/images/logo.svg" alt="Zod" width="40" height="40"/></a>
