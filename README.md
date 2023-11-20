@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/miliansolberg/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="miliansolberg" height="30" width="40" /></a>
-<a href="https://dev.to/miliansolberg" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="dev.to profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/miliansolberg/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="miliansolberg" height="40" width="40" /></a>
+<a href="https://dev.to/miliansolberg" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="dev.to profile" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,7 +16,6 @@
 </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" alt="typescript" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://tauri.app/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" alt="tauri" width="40" height="40"/> </a>
   
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="vitejs" width="40" height="40"/> </a>
 <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40"/> </a>
@@ -27,7 +26,6 @@
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" alt="prisma" width="40" height="40"/> </a>
 <a href="https://trpc.io/" target="_blank" rel="noreferrer"> <img src="https://trpc.io/img/logo.svg" alt="trpc" width="40" height="40"/> </a>
 </a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="NodeJS" width="40" height="40"/></a>
-</a> <a href="" target="_blank" rel="noreferrer"> <img src="https://zod.dev/logo.svg" alt="Zod" width="40" height="40"/></a>
 
 </a> <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://panther.com/wp-content/uploads/Nginx-logo.png" alt="Nginx" width="40" height="40"/>
 </a> <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/12820/199712/icon/pluginIcon.svg" alt="Redis" width="40" height="40"/>
