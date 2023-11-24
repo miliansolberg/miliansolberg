@@ -1,4 +1,4 @@
-<h1 align="center">Software engineer with a special interest for infrastructure and cloud</h1>
+<h1 align="center">Software engineer with a special interest for cloud</h1>
 
 - 🔭 Currently studying software engineering
 - 💬 Interested in the development of modern, frictionless digital products.
