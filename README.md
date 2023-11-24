@@ -2,7 +2,7 @@
 
 - 🔭 Pursuing a degree in computer science with a strong interest in cloud computing.
 - 💬 Passionate about creating seamless digital solutions and exploring the latest trends in modern technology.
-- 💬 Experienced in modern web development, with a growing expertise in cloud and automation.
+- 💬 Experienced in web development, with a growing expertise in cloud and automation.
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
