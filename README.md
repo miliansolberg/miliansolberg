@@ -10,4 +10,4 @@
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
-Next, SvelteKit, Tailwind, Nodejs, Python, Java, SQL, AWS, Terraform, Kafka, Spark
+Next, SvelteKit, Tailwind, Nodejs, Python, Java, SQL, AWS, Terraform
