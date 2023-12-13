@@ -1,4 +1,4 @@
-<h1 align="center">Aspiring techno-optimist in the arena.</h1>
+<h1 align="center">Unapologetic Techno-Optimist</h1>
 
 - 🎓 Pursuing a degree in computer science.
 - 🖥️ Experienced in web development, with a growing expertise in cloud and data.
