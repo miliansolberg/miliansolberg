@@ -2,4 +2,4 @@
 <p>🖥️ Experienced in web development, with a growing expertise in cloud and data.</p>
 
 <h2 align="left">Languages and Tools:</h2>
-<p>SvelteKit, Nodejs, Python, Java, SQL, AWS, Terraform</p>
+<p>Nodejs, Python, Java, SQL, AWS, Terraform</p>
